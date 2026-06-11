@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+.DS_Store
+finance.db
+.venv
+finance.db
+__pycache__/
+*.pyc

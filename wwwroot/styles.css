@@ -1,0 +1,5 @@
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;margin:1rem}
+main{max-width:900px;margin:0 auto}
+form label{display:block;margin:0.5rem 0}
+table{width:100%;border-collapse:collapse;margin-top:1rem}
+th,td{border:1px solid #ddd;padding:0.5rem;text-align:left}
